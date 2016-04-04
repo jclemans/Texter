@@ -1,5 +1,6 @@
 Texter
 ======
+Epicodus Week 10 Day 1
 
 ###Goal: Build an app that lets users send text messages to their friends.
 
